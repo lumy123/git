@@ -1,1 +1,2 @@
 test lum git
+The second version.modify the file.
